@@ -1,0 +1,238 @@
+{"level":"INFO","timestamp":"2024-09-13T10:25:36,818","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:25:36,830","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:25:36,832","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:25:36,832","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:26:47,283","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:26:47,284","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:26:47,285","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:26:47,285","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:29:22,235","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:29:22,236","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:29:22,236","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:29:22,237","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:31:26,354","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:31:26,355","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:31:26,355","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:31:26,355","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:32:09,163","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:32:09,164","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:32:09,164","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:32:09,165","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:44:55,895","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:44:55,896","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:44:55,896","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:44:55,896","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:45:27,415","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:45:27,416","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:45:27,416","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:45:27,416","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:45:51,762","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:45:51,763","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:45:51,763","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:45:51,763","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T10:49:59,201","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T10:49:59,202","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T10:49:59,202","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T10:49:59,202","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:06:10,189","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:06:10,190","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:06:10,190","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:06:10,190","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:06:11,949","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"org.sqlite.SQLiteException: [SQLITE_SCHEMA] The database schema changed (no such column: vintage)"}
+{"level":"INFO","timestamp":"2024-09-13T11:06:47,273","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:06:47,274","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:06:47,275","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:06:47,275","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:06:49,400","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"org.sqlite.SQLiteException: [SQLITE_SCHEMA] The database schema changed (no such column: vintage)"}
+{"level":"INFO","timestamp":"2024-09-13T11:11:02,135","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:11:02,136","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:11:02,136","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:11:02,137","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:11:25,147","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:11:25,148","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:11:25,148","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:11:25,148","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:13:10,995","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:13:10,996","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:10,997","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:13:10,997","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:12,934","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"INFO","timestamp":"2024-09-13T11:13:28,018","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:13:28,019","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:28,020","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:13:28,020","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:29,700","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:31,684","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:34,860","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"ERROR","timestamp":"2024-09-13T11:13:35,467","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"INFO","timestamp":"2024-09-13T11:14:11,362","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:14:11,363","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:14:11,363","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:14:11,363","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:14:13,510","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getVintageBoundaries", "line":"132","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"INFO","timestamp":"2024-09-13T11:18:18,873","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:18:18,874","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:18:18,874","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:18:18,874","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"ERROR","timestamp":"2024-09-13T11:18:20,735","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getMinVintage", "line":"128","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"ERROR","timestamp":"2024-09-13T11:18:20,750","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.getMaxVintage", "line":"142","message":"java.sql.SQLException: no such column: 'vintage'"}
+{"level":"INFO","timestamp":"2024-09-13T11:19:07,865","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:19:07,866","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:19:07,866","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:19:07,866","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:20:40,888","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:20:40,889","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:20:40,889","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:20:40,889","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:21:55,877","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:21:55,878","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:21:55,878","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:21:55,879","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:23:52,605","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:23:52,606","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:23:52,606","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:23:52,606","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:24:19,955","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:24:19,956","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:24:19,957","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:24:19,957","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:26:55,289","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:26:55,290","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:26:55,290","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:26:55,290","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:27:16,910","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:27:16,912","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:27:16,912","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:27:16,912","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:29:49,855","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:29:49,856","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:29:49,856","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:29:49,857","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:30:22,499","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:30:22,500","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:30:22,500","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:30:22,501","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T11:31:28,425","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T11:31:28,426","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T11:31:28,426","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T11:31:28,426","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:10:49,200","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:10:49,201","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:10:49,201","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:10:49,202","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:16:06,646","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:16:06,647","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:16:06,647","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:16:06,647","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:22:05,731","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:22:05,732","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:22:05,732","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:22:05,732","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:22:27,621","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:22:27,622","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:22:27,622","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:22:27,622","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:23:20,280","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:23:20,281","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:23:20,282","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:23:20,282","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:24:07,580","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:24:07,581","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:24:07,581","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:24:07,582","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:39:35,682","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:39:35,683","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:39:35,683","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:39:35,683","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:46:57,981","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:46:57,982","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:46:57,982","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:46:57,982","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:52:24,548","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:52:24,549","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:52:24,549","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:52:24,549","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T13:53:47,990","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T13:53:47,991","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T13:53:47,991","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T13:53:47,991","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:12:12,446","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:12:12,447","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:12:12,447","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:12:12,447","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:13:52,579","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:13:52,581","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:13:52,581","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:13:52,581","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:14:27,150","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:14:27,152","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:14:27,152","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:14:27,152","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:15:34,547","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:15:34,548","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:15:34,549","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:15:34,549","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:16:26,456","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:16:26,457","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:16:26,457","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:16:26,458","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:25:00,430","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:25:00,431","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:25:00,432","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:25:00,432","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:26:02,986","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:26:02,988","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:26:02,988","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:26:02,988","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:29:32,010","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:29:32,011","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:29:32,011","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:29:32,011","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:33:08,696","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:33:08,697","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:33:08,697","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:33:08,697","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:34:03,329","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:34:03,330","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:34:03,331","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:34:03,331","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:34:28,909","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:34:28,911","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:34:28,911","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:34:28,911","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:35:06,014","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:35:06,015","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:35:06,015","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:35:06,015","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:36:29,269","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:36:29,270","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:36:29,270","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:36:29,270","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:36:46,375","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:36:46,376","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:36:46,376","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:36:46,376","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:37:43,113","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:37:43,114","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:37:43,114","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:37:43,115","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:38:37,382","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:38:37,383","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:38:37,384","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:38:37,384","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:39:25,179","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:39:25,180","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:39:25,180","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:39:25,181","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:39:50,603","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:39:50,604","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:39:50,604","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:39:50,604","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:40:08,949","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:40:08,950","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:40:08,950","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:40:08,950","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}
+{"level":"INFO","timestamp":"2024-09-13T14:40:53,336","thread":"main","method":"seng202.team7.App.main", "line":"21","message":"Hello World!"}
+{"level":"WARN","timestamp":"2024-09-13T14:40:53,337","thread":"main","method":"seng202.team7.App.main", "line":"22","message":"This is a warning message! Use this log type to 'warn' if something is not quite right"}
+{"level":"ERROR","timestamp":"2024-09-13T14:40:53,337","thread":"main","method":"seng202.team7.App.main", "line":"23","message":"An error has occurred, thanks logging for helping find it! (This is a terrible error log message, but is only an example!')"}
+{"level":"INFO","timestamp":"2024-09-13T14:40:53,338","thread":"main","method":"seng202.team7.App.main", "line":"24","message":"There are many ways to log!"}

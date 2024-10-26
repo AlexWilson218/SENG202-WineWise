@@ -1,0 +1,235 @@
+{"level":"INFO","timestamp":"2024-10-13T12:00:24,045","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"78","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T12:00:24,109","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T12:00:24,801","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"78","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T12:00:24,849","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T12:00:25,525","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"78","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T12:00:25,569","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T12:00:30,478","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:52,638","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:52,685","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:53,392","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:53,435","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:54,139","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T14:23:54,183","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T14:23:59,345","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,643","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,645","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,645","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,645","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,645","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T14:45:32,646","thread":"Thread-3","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"92","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T14:45:32,687","thread":"Thread-3","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"80"}
+{"level":"INFO","timestamp":"2024-10-13T14:45:32,732","thread":"Thread-3","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"312"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:56,524","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:56,575","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:57,330","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:57,376","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:58,150","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:30:58,197","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T15:31:03,937","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:23,004","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:23,057","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:24,608","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:31,737","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:31,806","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:32,095","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:32,144","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"ERROR","timestamp":"2024-10-13T15:31:35,002","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:38,707","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T15:31:39,521","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:35,937","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:35,990","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:36,798","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:36,858","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:37,652","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T15:35:37,697","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T15:35:43,515","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:02,703","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:02,760","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:04,276","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:11,674","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:11,724","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:12,023","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:12,072","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"ERROR","timestamp":"2024-10-13T15:36:15,075","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:18,823","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T15:36:19,630","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:20,815","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:20,863","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:22,302","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,304","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,347","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,612","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,655","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,875","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:29,918","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T19:44:32,609","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:35,949","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:44:36,684","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:10,148","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:10,192","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:10,898","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:10,945","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:11,642","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:11,685","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T19:45:16,763","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:34,908","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:34,956","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:36,326","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,210","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,254","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,520","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,564","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,808","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:43,856","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T19:45:46,883","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:50,497","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T19:45:51,334","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:27,460","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:27,563","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:29,411","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:29,505","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:31,296","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T20:13:31,389","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T20:13:40,410","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:00,362","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:00,410","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:02,033","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,303","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,351","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,636","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,681","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,912","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:09,959","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T20:14:12,972","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:16,499","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T20:14:17,173","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,810","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,811","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,812","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,812","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,812","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:20:23,812","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T21:20:23,850","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"0"}
+{"level":"INFO","timestamp":"2024-10-13T21:20:23,893","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"0"}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,024","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,025","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,025","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,025","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,025","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:23:09,025","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T21:23:09,060","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"0"}
+{"level":"INFO","timestamp":"2024-10-13T21:23:09,095","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"0"}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,438","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,440","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,440","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,440","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,440","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:26:34,440","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T21:26:34,467","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"0"}
+{"level":"INFO","timestamp":"2024-10-13T21:26:34,502","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"0"}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,225","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,227","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,227","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,227","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,227","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T21:28:13,227","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"95","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T21:28:13,257","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"92","message":"0"}
+{"level":"INFO","timestamp":"2024-10-13T21:28:13,289","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"0"}
+{"level":"INFO","timestamp":"2024-10-13T21:50:30,575","thread":"JavaFX Application Thread","method":"seng202.team7.repository.DatabaseManager.createDatabaseFile", "line":"128","message":"A new database has been created. The driver name is SQLite JDBC"}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,059","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,060","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,061","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,061","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,061","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"ERROR","timestamp":"2024-10-13T22:00:23,061","thread":"Thread-2","method":"seng202.team7.io.WineCSVImporter.readWineFromLine", "line":"97","message":"java.lang.NumberFormatException: For input string: "NV""}
+{"level":"INFO","timestamp":"2024-10-13T22:00:23,117","thread":"Thread-2","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"79"}
+{"level":"INFO","timestamp":"2024-10-13T22:00:23,174","thread":"Thread-2","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"311"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:17,751","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:17,797","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:19,297","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,240","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,284","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,559","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,605","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,845","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:26,892","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T22:02:29,801","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:33,364","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T22:02:34,176","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:41,812","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:41,859","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:42,600","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:42,646","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:43,383","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:05:43,427","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T23:05:48,811","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:07,534","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:07,580","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:09,003","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:15,818","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:15,862","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:16,121","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:16,170","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:16,383","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:16,429","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T23:06:19,217","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:23,179","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:23,946","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:56,049","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:56,096","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:56,837","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:56,879","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:57,593","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:06:57,635","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T23:07:03,077","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:21,600","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:21,649","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:23,101","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,093","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,135","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,423","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,464","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,674","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:30,716","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T23:07:33,436","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:37,388","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:07:38,309","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:08,662","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:08,750","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:09,648","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:09,702","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:10,802","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:10,884","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T23:14:17,751","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:43,403","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:43,465","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:46,072","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:55,304","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:55,357","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:55,678","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:55,733","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:56,005","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:14:56,062","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T23:14:59,669","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:15:04,769","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:15:05,697","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:22,362","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:22,410","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:23,125","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:23,170","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:23,885","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"14"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:23,929","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"11"}
+{"level":"ERROR","timestamp":"2024-10-13T23:23:29,649","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:50,732","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"8"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:50,786","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"10"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:52,355","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"5"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:59,455","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:59,505","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:59,791","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:23:59,837","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"4"}
+{"level":"INFO","timestamp":"2024-10-13T23:24:00,069","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:24:00,118","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"326","message":"5"}
+{"level":"ERROR","timestamp":"2024-10-13T23:24:03,431","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"254","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-13T23:24:07,292","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"3"}
+{"level":"INFO","timestamp":"2024-10-13T23:24:08,069","thread":"Test worker","method":"seng202.team7.repository.WineryDAO.addBatch", "line":"92","message":"1"}

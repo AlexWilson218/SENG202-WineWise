@@ -1,0 +1,1 @@
+{"level":"INFO","timestamp":"2024-10-06T15:10:25,918","thread":"JavaFX Application Thread","method":"seng202.team7.repository.DatabaseManager.createDatabaseFile", "line":"128","message":"A new database has been created. The driver name is SQLite JDBC"}

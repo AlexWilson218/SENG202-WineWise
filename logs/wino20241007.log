@@ -1,0 +1,8 @@
+{"level":"INFO","timestamp":"2024-10-07T12:08:30,739","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.addBatch", "line":"248","message":"321"}
+{"level":"ERROR","timestamp":"2024-10-07T12:08:30,760","thread":"JavaFX Application Thread","method":"seng202.team7.repository.WineDAO.addBatch", "line":"252","message":"java.sql.SQLException: database in auto-commit mode"}
+{"level":"ERROR","timestamp":"2024-10-07T12:47:35,887","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"180","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-07T12:47:38,067","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"78","message":"3"}
+{"level":"ERROR","timestamp":"2024-10-07T12:47:38,070","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"82","message":"java.sql.SQLException: database in auto-commit mode"}
+{"level":"ERROR","timestamp":"2024-10-07T12:48:39,764","thread":"Test worker","method":"seng202.team7.repository.WineDAO.add", "line":"180","message":"org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: wines.name, wines.winery, wines.vintage)"}
+{"level":"INFO","timestamp":"2024-10-07T12:48:41,892","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"78","message":"3"}
+{"level":"ERROR","timestamp":"2024-10-07T12:48:41,896","thread":"Test worker","method":"seng202.team7.repository.WineDAO.addBatch", "line":"82","message":"java.sql.SQLException: database in auto-commit mode"}

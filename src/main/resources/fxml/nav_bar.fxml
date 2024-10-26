@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+
+<BorderPane fx:id="mainWindow" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="635.0" prefWidth="900.0" stylesheets="@../style/navbar.css" xmlns="http://javafx.com/javafx/21.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="seng202.team7.gui.NavBarController">
+   <top>
+      <AnchorPane fx:id="navWindow" prefHeight="80.0" prefWidth="900.0" styleClass="nav-Window" stylesheets="@../style/navbar.css" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fx:id="searchIcon" blendMode="SRC_ATOP" fitHeight="55.0" fitWidth="55.0" layoutX="21.0" layoutY="13.0" onMouseClicked="#searchPressed" styleClass="pressable-button">
+               <image>
+                  <Image url="@../images/2.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <ImageView fx:id="mapsIcon" blendMode="SRC_ATOP" fitHeight="55.0" fitWidth="55.0" layoutX="121.0" layoutY="13.0" onMouseClicked="#mapPressed" styleClass="pressable-button">
+               <image>
+                  <Image url="@../images/1.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <ImageView fx:id="helpIcon" blendMode="SRC_ATOP" fitHeight="55.0" fitWidth="55.0" layoutX="726.0" layoutY="13.0" onMouseClicked="#helpPressed" styleClass="pressable-button">
+               <image>
+                  <Image url="@../images/3.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <ImageView fx:id="adminIcon" blendMode="SRC_ATOP" fitHeight="55.0" fitWidth="55.0" layoutX="826.0" layoutY="13.0" onMouseClicked="#loginPressed" styleClass="pressable-button">
+               <image>
+                  <Image url="@../images/4.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <ImageView fx:id="homeLogo" fitHeight="85.0" fitWidth="116.0" layoutX="394.0" layoutY="-12.0" onMouseClicked="#homePressed" preserveRatio="true" styleClass="pressable-button">
+               <image>
+                  <Image url="@../images/winewiselogocroppedResized2.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
+            <Pane fx:id="logoSelectPane" blendMode="EXCLUSION" layoutX="388.0" layoutY="-19.0" onMouseClicked="#homePressed" prefHeight="100.0" prefWidth="125.0">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+         </children>
+      </AnchorPane>
+   </top>
+   <left>
+      <AnchorPane prefHeight="0.0" prefWidth="0.0" BorderPane.alignment="CENTER" />
+   </left>
+   <bottom>
+      <AnchorPane prefHeight="0.0" prefWidth="0.0" BorderPane.alignment="CENTER" />
+   </bottom>
+   <right>
+      <AnchorPane prefHeight="0.0" prefWidth="0.0" BorderPane.alignment="CENTER" />
+   </right>
+   <center>
+      <Pane minHeight="600.0" minWidth="900.0" prefHeight="600.0" prefWidth="900.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>

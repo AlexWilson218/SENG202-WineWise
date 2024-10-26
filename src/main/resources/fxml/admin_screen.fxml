@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" stylesheets="@../style/navbar.css" xmlns="http://javafx.com/javafx/21.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="seng202.team7.gui.AdminScreenController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="508.0" layoutX="14.0" layoutY="78.0" stroke="BLACK" strokeType="INSIDE" styleClass="highlight-rectangle" width="242.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="508.0" layoutX="276.0" layoutY="78.0" stroke="BLACK" strokeType="INSIDE" styleClass="highlight-rectangle" width="608.0" />
+      <Button fx:id="logoutButton" layoutX="714.0" layoutY="25.0" mnemonicParsing="false" onAction="#adminLogout" text="Logout">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button layoutX="52.0" layoutY="190.0" mnemonicParsing="false" onAction="#addDataSet" text="Add a Dataset">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button layoutX="52.0" layoutY="309.0" mnemonicParsing="false" onAction="#onViewWines" prefHeight="29.0" prefWidth="152.0" text="View Data">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Label layoutX="77.0" layoutY="111.0" styleClass="subheader-label" text="Modify Data">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="509.0" layoutY="111.0" styleClass="subheader-label" text="Flagged Reviews">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="276.0" layoutY="14.0" styleClass="title-label" text="WineWise Admin">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="deleteReviewButton" layoutX="393.0" layoutY="517.0" mnemonicParsing="false" onAction="#deleteFlaggedReviews" text="Delete Review">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="unflagReviewButton" layoutX="582.0" layoutY="517.0" mnemonicParsing="false" onAction="#unflagFlaggedReviews" text="Unflag Review">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="addWine" layoutX="52.0" layoutY="251.0" mnemonicParsing="false" onAction="#onAddWine" text="Add a New Wine">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <TableView fx:id="reviewTable" layoutX="330.0" layoutY="138.0" prefHeight="163.0" prefWidth="489.0" styleClass="table-view-review">
+         <columns>
+            <TableColumn fx:id="ratingColumn" prefWidth="65.0" text="Rating" />
+            <TableColumn fx:id="reviewColumn" prefWidth="360.0" text="Description" />
+            <TableColumn fx:id="flaggedColumn" prefWidth="65.0" text="Select" />
+         </columns>
+      </TableView>
+      <Label layoutX="295.0" layoutY="486.0" styleClass="subtitle-label" text="Tick the checkboxes in the select column then click one of these buttons:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Button layoutX="534.0" layoutY="25.0" mnemonicParsing="false" onAction="#adminChangePassword" text="Change Password ">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="helpButton" layoutX="14.0" layoutY="25.0" mnemonicParsing="false" onAction="#onHelp" text="Help" />
+      <ScrollPane fx:id="selectedReviewScrollPane" layoutX="329.0" layoutY="308.0" prefHeight="163.0" prefWidth="489.0" styleClass="review-expand-scroll">
+         <content>
+            <Text fx:id="selectedReviewText" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="Select a review to expand!" />
+         </content>
+      </ScrollPane>
+      <Button fx:id="addWinery" layoutX="52.0" layoutY="370.0" mnemonicParsing="false" onAction="#onAddWinery" text="Place Winery" />
+      <Label layoutX="266.0" layoutY="45.0" prefHeight="17.0" prefWidth="234.0" styleClass="subtitle-label" text="Click &quot;Help&quot; if you get lost!" textAlignment="CENTER" />
+   </children>
+</AnchorPane>
